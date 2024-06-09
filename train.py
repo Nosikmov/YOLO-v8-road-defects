@@ -10,6 +10,6 @@ results = model.train(
    epochs=10,
    batch=8,
    device='gpu',
-   name='yolov8n_custom'),
+   name='yolov8m_custom'),
    
 # Запустить тренировку
