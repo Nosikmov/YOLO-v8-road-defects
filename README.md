@@ -22,7 +22,8 @@ ClearML нам потребуется для остлеживанием проц
 Переходим в Settings => Workspace область и жмем create new credentials
 
 ![Настройки профиля](https://github.com/Nosikmov/YOLO-v8-road-defects/assets/168178686/fbee78b5-d204-4c1d-9d35-5fa92fe20e99)
-![Создание ключа](https://github.com/Nosikmov/YOLO-v8-road-defects/assets/168178686/dcd0fa05-fb4e-4497-821e-58e366fd3499) 
+![Создание ключа](https://github.com/Nosikmov/YOLO-v8-road-defects/assets/168178686/918d466e-c554-4407-8a84-27737f44bb70)
+
 
 Данный ключ можно скопировать с помощью встроенной кнопки на сайте.
 
