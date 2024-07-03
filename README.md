@@ -53,3 +53,7 @@ YOLOv8m (средняя модель)
 ![results](https://github.com/Nosikmov/YOLO-v8-road-defects/assets/168178686/7bf6cc00-ca8c-473f-b230-463ee8a988e6)
 Модель обучалась без изменения размера файлов датасета;
 Обучение проводилось в 30 эпох.
+Примеры результатов обученной модели:
+![5698f3507](https://github.com/Nosikmov/YOLO-v8-road-defects/assets/168178686/fa8efebc-9153-4730-a107-0065bf72d334)
+![5210ac609](https://github.com/Nosikmov/YOLO-v8-road-defects/assets/168178686/0670a5f6-6908-479e-a081-194806463c19)
+![55c689cd0](https://github.com/Nosikmov/YOLO-v8-road-defects/assets/168178686/a8940312-c0bc-411f-b975-545604c13f7b)
